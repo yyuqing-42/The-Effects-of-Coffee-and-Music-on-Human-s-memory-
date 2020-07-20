@@ -1,0 +1,199 @@
+Gender,Coffee Dose,Music Genre,Memory Before,Memory After,Difference
+Male,1 Cup,Classical,62.9,62.5,-0.4
+Male,1 Cup,Classical,63.7,54.4,-9.3
+Male,1 Cup,Classical,102,96,-6
+Male,1 Cup,Classical,44.3,41.4,-2.9
+Male,1 Cup,Classical,47.1,37.1,-1
+Male,1 Cup,Classical,61.4,61.6,0.2
+Male,1 Cup,Classical,33.1,36.4,3.3
+Male,1 Cup,Classical,35.9,28.3,-7.6
+Male,1 Cup,Classical,42.1,55.2,13.1
+Male,1 Cup,Classical,68.2,67.2,-1
+Male,1 Cup,Classical,52.8,54.6,1.8
+Male,2 Cups,Classical,70.9,59.7,-11.2
+Male,2 Cups,Classical,73.9,68.3,-5.6
+Male,2 Cups,Classical,82.4,78.5,-3.9
+Male,2 Cups,Classical,114,114,0
+Male,2 Cups,Classical,53.9,50.2,-3.7
+Male,2 Cups,Classical,102,96,-6
+Male,2 Cups,Classical,55.9,59.6,3.7
+Male,2 Cups,Classical,57.3,54.4,-2.9
+Male,2 Cups,Classical,73.4,64.8,-8.6
+Male,2 Cups,Classical,79.3,86.8,7.5
+Male,2 Cups,Classical,55.1,54.9,-0.2
+Male,3 Cups,Classical,86.6,81.6,-5
+Male,3 Cups,Classical,114,114,0
+Male,3 Cups,Classical,32.5,32.7,0.2
+Male,3 Cups,Classical,70.8,73.7,2.9
+Male,3 Cups,Classical,64.6,67.2,2.6
+Male,3 Cups,Classical,31.6,30.6,-1
+Male,3 Cups,Classical,47.2,51.7,4.5
+Male,3 Cups,Classical,102,96,-6
+Male,3 Cups,Classical,90,83.2,-6.8
+Male,3 Cups,Classical,40.9,38.7,-2.2
+Male,3 Cups,Classical,87.5,102,14.5
+Male,1 Cup,Heavy Metal,43.5,42.3,-1.2
+Male,1 Cup,Heavy Metal,44.7,54.8,10.1
+Male,1 Cup,Heavy Metal,79.9,85.2,5.3
+Male,1 Cup,Heavy Metal,90,96,6
+Male,1 Cup,Heavy Metal,96,96,0
+Male,1 Cup,Heavy Metal,102,96,-6
+Male,1 Cup,Heavy Metal,55.6,47.8,-7.8
+Male,1 Cup,Heavy Metal,79.2,80.8,1.6
+Male,1 Cup,Heavy Metal,61.6,71.8,10.2
+Male,1 Cup,Heavy Metal,41.7,47.1,5.4
+Male,1 Cup,Heavy Metal,50.6,47,-3.6
+Male,2 Cups,Heavy Metal,69.8,71.1,1.3
+Male,2 Cups,Heavy Metal,55.5,66.6,11.1
+Male,2 Cups,Heavy Metal,42.5,43,0.5
+Male,2 Cups,Heavy Metal,66.2,74.4,8.2
+Male,2 Cups,Heavy Metal,69.7,67.8,-1.9
+Male,2 Cups,Heavy Metal,,,
+Male,2 Cups,Heavy Metal,,,
+Male,2 Cups,Heavy Metal,,,
+Male,2 Cups,Heavy Metal,,,
+Male,2 Cups,Heavy Metal,,,
+Male,2 Cups,Heavy Metal,,,
+Male,3 Cups,Heavy Metal,,,
+Male,3 Cups,Heavy Metal,,,
+Male,3 Cups,Heavy Metal,,,
+Male,3 Cups,Heavy Metal,,,
+Male,3 Cups,Heavy Metal,,,
+Male,3 Cups,Heavy Metal,,,
+Male,3 Cups,Heavy Metal,,,
+Male,3 Cups,Heavy Metal,,,
+Male,3 Cups,Heavy Metal,,,
+Male,3 Cups,Heavy Metal,,,
+Male,3 Cups,Heavy Metal,,,
+Male,1 Cup,No Music (Control),,,
+Male,1 Cup,No Music (Control),,,
+Male,1 Cup,No Music (Control),,,
+Male,1 Cup,No Music (Control),,,
+Male,1 Cup,No Music (Control),,,
+Male,1 Cup,No Music (Control),,,
+Male,1 Cup,No Music (Control),,,
+Male,1 Cup,No Music (Control),,,
+Male,1 Cup,No Music (Control),,,
+Male,1 Cup,No Music (Control),,,
+Male,1 Cup,No Music (Control),,,
+Male,2 Cups,No Music (Control),,,
+Male,2 Cups,No Music (Control),,,
+Male,2 Cups,No Music (Control),,,
+Male,2 Cups,No Music (Control),,,
+Male,2 Cups,No Music (Control),,,
+Male,2 Cups,No Music (Control),,,
+Male,2 Cups,No Music (Control),,,
+Male,2 Cups,No Music (Control),,,
+Male,2 Cups,No Music (Control),,,
+Male,2 Cups,No Music (Control),,,
+Male,2 Cups,No Music (Control),,,
+Male,3 Cups,No Music (Control),,,
+Male,3 Cups,No Music (Control),,,
+Male,3 Cups,No Music (Control),,,
+Male,3 Cups,No Music (Control),,,
+Male,3 Cups,No Music (Control),,,
+Male,3 Cups,No Music (Control),,,
+Male,3 Cups,No Music (Control),,,
+Male,3 Cups,No Music (Control),,,
+Male,3 Cups,No Music (Control),,,
+Male,3 Cups,No Music (Control),,,
+Male,3 Cups,No Music (Control),,,
+Female,1 Cup,Classical,57.7,56.8,-0.9
+Female,1 Cup,Classical,66,67.9,1.9
+Female,1 Cup,Classical,33.1,34.2,1.1
+Female,1 Cup,Classical,45.7,42.6,-3.1
+Female,1 Cup,Classical,37.9,35.4,-2.5
+Female,1 Cup,Classical,33.8,32.6,-1.2
+Female,1 Cup,Classical,41.7,37.4,-4.3
+Female,1 Cup,Classical,47,38.9,-8.1
+Female,1 Cup,Classical,71.7,60.2,-11.5
+Female,1 Cup,Classical,86.7,72,-14.7
+Female,1 Cup,Classical,54.6,60.6,6
+Female,2 Cups,Classical,48.9,45.2,-3.7
+Female,2 Cups,Classical,60.2,62.2,2
+Female,2 Cups,Classical,51.2,57,5.8
+Female,2 Cups,Classical,76,62.8,-13.2
+Female,2 Cups,Classical,42.6,43.5,0.9
+Female,2 Cups,Classical,54.6,44.3,-10.3
+Female,2 Cups,Classical,54.3,52.9,-1.4
+Female,2 Cups,Classical,52.5,38.8,-13.7
+Female,2 Cups,Classical,42,30.6,-11.4
+Female,2 Cups,Classical,35.5,23.6,-11.9
+Female,2 Cups,Classical,37.3,36.6,-0.7
+Female,3 Cups,Classical,79.2,77.9,-1.3
+Female,3 Cups,Classical,49.9,43.8,-6.1
+Female,3 Cups,Classical,39.8,38.4,-1.4
+Female,3 Cups,Classical,45.1,39.5,-5.6
+Female,3 Cups,Classical,56.7,49,-7.7
+Female,3 Cups,Classical,54.8,52.5,-2.3
+Female,3 Cups,Classical,59.1,55.9,-3.2
+Female,3 Cups,Classical,58.6,56,-2.6
+Female,3 Cups,Classical,47,42.5,-4.5
+Female,3 Cups,Classical,37.9,35.6,-2.3
+Female,3 Cups,Classical,38.5,30.2,-8.3
+Female,1 Cup,Heavy Metal,60.4,68.8,8.4
+Female,1 Cup,Heavy Metal,42.2,55.8,13.6
+Female,1 Cup,Heavy Metal,50.5,55.7,5.2
+Female,1 Cup,Heavy Metal,41.1,39.2,-1.9
+Female,1 Cup,Heavy Metal,34.3,39.4,5.1
+Female,1 Cup,Heavy Metal,67.6,74.8,7.2
+Female,1 Cup,Heavy Metal,52.1,59.3,7.2
+Female,1 Cup,Heavy Metal,56.3,57.5,1.2
+Female,1 Cup,Heavy Metal,48.1,59.5,11.4
+Female,1 Cup,Heavy Metal,31.7,33,1.3
+Female,1 Cup,Heavy Metal,83.3,96,12.7
+Female,2 Cups,Heavy Metal,54.3,62.9,8.6
+Female,2 Cups,Heavy Metal,60.9,54.4,-6.5
+Female,2 Cups,Heavy Metal,43,40.3,-2.7
+Female,2 Cups,Heavy Metal,47.3,54.8,7.5
+Female,2 Cups,Heavy Metal,44.6,48.9,4.3
+Female,2 Cups,Heavy Metal,73.4,77.9,4.5
+Female,2 Cups,Heavy Metal,47.3,57.4,10.1
+Female,2 Cups,Heavy Metal,67.3,62.6,-4.7
+Female,2 Cups,Heavy Metal,43.5,57.4,13.9
+Female,2 Cups,Heavy Metal,63.5,66.3,2.8
+Female,2 Cups,Heavy Metal,72.3,74.6,2.3
+Female,3 Cups,Heavy Metal,43.6,46.7,3.1
+Female,3 Cups,Heavy Metal,53.4,46.8,-6.6
+Female,3 Cups,Heavy Metal,33.7,43.6,9.9
+Female,3 Cups,Heavy Metal,56.7,54.6,-2.1
+Female,3 Cups,Heavy Metal,83.4,93.6,10.2
+Female,3 Cups,Heavy Metal,77.5,75.4,-2.1
+Female,3 Cups,Heavy Metal,31.5,40.6,9.1
+Female,3 Cups,Heavy Metal,50.4,63.7,13.3
+Female,3 Cups,Heavy Metal,63.3,74.3,11
+Female,3 Cups,Heavy Metal,55.9,64.2,8.3
+Female,3 Cups,Heavy Metal,50.6,52.8,2.2
+Female,1 Cup,No Music (Control),76.7,71,-5.7
+Female,1 Cup,No Music (Control),50.5,55.6,5.1
+Female,1 Cup,No Music (Control),66.3,53.5,-12.8
+Female,1 Cup,No Music (Control),50.6,52.6,2
+Female,1 Cup,No Music (Control),48.8,50,1.2
+Female,1 Cup,No Music (Control),49.1,45.7,-3.4
+Female,1 Cup,No Music (Control),34.9,32.8,-2.1
+Female,1 Cup,No Music (Control),36.1,33.4,-2.7
+Female,1 Cup,No Music (Control),70.1,73.3,3.2
+Female,1 Cup,No Music (Control),75.3,73,-2.3
+Female,1 Cup,No Music (Control),51.6,52.9,1.3
+Female,2 Cups,No Music (Control),47.5,46.9,-0.6
+Female,2 Cups,No Music (Control),35.5,41.5,6
+Female,2 Cups,No Music (Control),33.5,32.4,-1.1
+Female,2 Cups,No Music (Control),43.4,41.3,-2.1
+Female,2 Cups,No Music (Control),66.6,56.1,-10.5
+Female,2 Cups,No Music (Control),58.3,58.6,0.3
+Female,2 Cups,No Music (Control),65.6,63.1,-2.5
+Female,2 Cups,No Music (Control),47.8,48.1,0.3
+Female,2 Cups,No Music (Control),40,47.3,7.3
+Female,2 Cups,No Music (Control),55.1,51.9,-3.2
+Female,2 Cups,No Music (Control),56.3,51.3,-5
+Female,3 Cups,No Music (Control),41,27.4,-13.6
+Female,3 Cups,No Music (Control),36.6,39.9,3.3
+Female,3 Cups,No Music (Control),32.2,36.2,4
+Female,3 Cups,No Music (Control),33.9,27,-6.9
+Female,3 Cups,No Music (Control),46.5,50.6,4.1
+Female,3 Cups,No Music (Control),28.8,36.1,7.3
+Female,3 Cups,No Music (Control),38,38.1,0.1
+Female,3 Cups,No Music (Control),62.4,60.4,-2
+Female,3 Cups,No Music (Control),75.8,65.7,-10.1
+Female,3 Cups,No Music (Control),49,55.2,6.2
+Female,3 Cups,No Music (Control),79.5,86.4,6.9
