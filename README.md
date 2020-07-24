@@ -1,5 +1,7 @@
 # The-Effects-of-Coffee-and-Music-on-Human-s-memory-
 
+Members: Haley Rao, Yuqing Yang, Kai Chen Tan, Daniel Zander
+
 Conducted a two-way randomized block design to study the potential effects of coffee and music on human's memory
 
 ## Research Question
