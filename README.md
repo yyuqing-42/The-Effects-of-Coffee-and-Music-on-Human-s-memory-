@@ -43,7 +43,7 @@ For data visualization, we used boxplots to compare the difference in time taken
 
 - Given the ANOVA results and visualized through our interation plots and boxplots, we conclude that music appears to affect memory performance, while we do not have evidence to suggest that coffee affects memory or that there is interaction between music and coffee. 
 
-- From the music genre boxplot, it appears that the siginificance xomes rom a decreased memory performance when listening to heavy mental music. 
+- From the music genre boxplot, it appears that the siginificance comes from a decreased memory performance when listening to heavy mental music. 
 
 - This means that while working in a busy office, we suggest that people avoid listening to heavy metal music and other music in similar genres such as hard rock. 
 
